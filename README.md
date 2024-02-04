@@ -39,7 +39,9 @@
 
 - 👨‍💻 All of my projects are available at [https://crisandev.vercel.app/](https://crisandev.vercel.app/)
 
-- 💬 Ask me about **Web Development, Java, Spring Boot & more.*
+- 💬 Ask me about *Web Development, Java, Spring Boot & more.*
+  
+- ❤️ Enjoy my codes
 
 ###
 
