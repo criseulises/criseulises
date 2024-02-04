@@ -1,23 +1,21 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://crisandev.vercel.app)
+[![MasterHead](https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/web-developer.gif)](https://crisandev.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Cristian Sanchez</h1>
 <h3 align="center">I am a Software Development student with experience in Full Stack Development, specializing in Java & JavaScript. I possess strong problem-solving and leadership skills. My focus is on creating efficient and high-quality technological solutions, and I am committed to continuous improvement and learning.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/crisandev/shared-resources/main/images/gif/programmer.gif">
 
-<p align="left"> <img src="https://drive.google.com/file/d/1GjPzPA3hfJ0DyGOwW28AtktXyFzr89vQ/view?usp=sharing" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crisandev&label=Profile%20views&color=0e75b6&style=flat" alt="crisandev" /> </p>
 
 - 🔭 I’m currently working on [30 Days Javascript Challenge](https://github.com/crisandev/30-day-javascript-challenge)
 
-- 🌱 I’m currently learning **Android (Kotlin) & AI (Python)**
+- 🌱 I’m currently learning **Android Studio (Kotlin) & Artificial Intelligent (Python)**
 
 - 👨‍💻 All of my projects are available at [https://crisandev.vercel.app/](https://crisandev.vercel.app/)
 
 - 💬 Ask me about **Web Development, Java, Spring Boot & more.**
 
 - 📫 How to reach me **scristianeulises@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisandev&show_icons=true&locale=en" alt="crisandev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisandev&" alt="crisandev" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisandev" alt="crisandev" /></a> </p>
