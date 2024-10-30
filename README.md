@@ -16,15 +16,27 @@
   <a href="https://www.hackerrank.com/criseulises" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/u/criseulises/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
+  <a href="https://github.com/criseulises" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+  <a href="https://twitter.com/criseulises" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@criseulises" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻   About Me</h3>
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">I am a Software Development student with experience in Full Stack Development, specializing in Java & JavaScript. I possess strong problem-solving and leadership skills. My focus is on creating efficient and high-quality technological solutions, and I am committed to continuous improvement and learning.</p>
+<p align="left">I’m a computer engineer with a deep passion for technology and a love for sharing what I know. My journey in software development has been about more than just building systems—it’s about creating, innovating, and helping others see the possibilities in tech. From coding to content creation, I’m driven by a genuine enthusiasm to make complex concepts accessible and inspire others to explore, learn, and grow. 🚀💡</p>
 
 ###
 
@@ -33,13 +45,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criseulises&label=Profile%20views&color=0e75b6&style=flat" alt="criseulises" /> </p>
 
-- 🔭 I’m currently working on [30 Days Javascript Challenge](https://github.com/criseulises/30-day-javascript-challenge)
+- 🔭 I’m currently working on [75 Days Of LeetCode](https://github.com/criseulises/75daysLeetCode)
 
-- 🌱 I’m currently learning **Android (Kotlin) & AI (Python)**
+- 🌱 I’m currently learning **Kubernetes, Devops & Tech in General**
 
-- 👨‍💻 All of my projects are available at [https://crisandev.vercel.app/](https://crisandev.vercel.app/)
+- 👨🏻‍💻 All of my projects are available at [https://crisandev.vercel.app/](https://crisandev.vercel.app/)
 
-- 💬 Ask me about *Web Development, Java, Spring Boot & more.*
+- 💬 Ask me about *Tech, Web Development, Java, Quarkus, Kubernetes & more.*
   
 - ❤️ Enjoy my codes
 
@@ -57,7 +69,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cpp,py&perline=8)](https://skillicons.dev)
 
 ###
 
@@ -105,7 +117,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,flutter&perline=8)](https://skillicons.dev)
 
 </div>
 
