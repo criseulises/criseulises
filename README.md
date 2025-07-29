@@ -43,7 +43,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/criseulises/shared-resources/main/images/gif/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criseulises&label=Profile%20views&color=0e75b6&style=flat" alt="criseulises" /> </p>
